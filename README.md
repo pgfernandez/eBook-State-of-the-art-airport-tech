@@ -1,5 +1,6 @@
 # eBook-State-of-the-art-airport-tech
 free ebook about the state of the art of airport technologies, SOA, CEP and BPM by 2012. (Spanish)
+https://aeriaa.com/on-the-state-of-the-art-integration-bpm-and-cep-on-airports-free-book-in-spanish/
 
 The book collects the experience, mine and of my Isdefe’s colleagues, in the application of integration technologies at airports. The main topcis are: SOA / ESB, information model, Integration project approach, airport procedures, competence centers, dashboards and the introduction of new technologies in the field of BPM and CEP. It is also intended for the Airport’s Managerial Staff for reducing the gap with the IT staff about the possibilities of the technology for delivering new services, reducing costs and for generating more revenues.
 
