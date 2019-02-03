@@ -9,3 +9,5 @@ The book is organized in three main areas:
 * Chapters 1 to 3: introduce the current airport context (mainly the spanish), the frameworks with which we have addressed the several airport’s systems integration projects and processes and finally, a compendium of general processes and systems within the airports. 
 * Chapters 4 to 7: introduce different technological paradigms: integration services and associated data model,  automated business processes and complex event processing.
 * Chapters 8 to 9: the exploitation by the airport management centers (AMC or APOC) from the information systems based on metrics, service level agreements, etc., and the necessary Competences Centers with the appropriate roles to address the implantation of the technologies described within the book.
+
+https://github.com/pgfernandez/eBook-State-of-the-art-airport-tech/blob/master/MONOGRAFIA%20Estado%20del%20Arte%20de%20las%20Nuevas%20Tecnolog%C3%ADas%20TIC%20aplicadas%20al%20entorno%20aeroportuario.pdf
